@@ -11,7 +11,7 @@
 **A comprehensive machine learning project for predicting sales at BigMart outlets**
 
 <!-- [🚀 Live Demo](http://localhost:8501)  -->
-• [📊 Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data) • [📖 Documentation](README.md)
+[Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data) • [Documentation](README.md)
 
 </div>
 
@@ -20,10 +20,10 @@
 This project demonstrates a complete **end-to-end data science workflow** for predicting sales at BigMart outlets. Using advanced machine learning techniques, we analyze historical sales data to build predictive models that can forecast item outlet sales with high accuracy.
 
 ### 🎯 Key Objectives
-- **🔍 Data Analysis**: Comprehensive exploratory data analysis with 18+ visualizations
-- **🤖 ML Pipeline**: Multiple machine learning algorithms with model comparison
-- **📊 Interactive Dashboard**: Real-time predictions and data exploration
-- **💼 Business Insights**: Actionable recommendations for sales optimization
+- **Data Analysis**: Comprehensive exploratory data analysis with 18+ visualizations
+- **ML Pipeline**: Multiple machine learning algorithms with model comparison
+- **Interactive Dashboard**: Real-time predictions and data exploration
+- **Business Insights**: Actionable recommendations for sales optimization
 
 ## 📊 Dataset
 
