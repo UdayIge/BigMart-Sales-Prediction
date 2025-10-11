@@ -97,7 +97,7 @@ This project demonstrates a complete **end-to-end data science workflow** for pr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/BigMart-Sales-Prediction.git
+   git clone https://github.com/UdayIge/BigMart-Sales-Prediction.git
    cd BigMart-Sales-Prediction
    ```
 
@@ -116,7 +116,7 @@ This project demonstrates a complete **end-to-end data science workflow** for pr
    ```
 
 4. **Download dataset**
-   - Download from [Kaggle Competition](https://www.kaggle.com/competitions/bigmart-sales-data)
+   - Download from [Kaggle Competition](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)
    - Place `Train.csv` and `Test.csv` in the `data/` directory
 
 </details>

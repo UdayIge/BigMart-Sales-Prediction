@@ -11,7 +11,7 @@ Thank you for your interest in contributing to the BigMart Sales Prediction proj
 
 ### Development Setup
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/your-username/BigMart-Sales-Prediction.git`
+2. Clone your fork: `git clone https://github.com/UdayIge/BigMart-Sales-Prediction.git`
 3. Create a virtual environment: `python -m venv venv`
 4. Activate the environment:
    - Windows: `venv\Scripts\activate`
@@ -144,7 +144,7 @@ Contributors will be recognized in:
 
 - **GitHub Issues**: For bugs and feature requests
 - **Discussions**: For general questions and ideas
-- **Email**: [your-email@example.com] for direct contact
+- **Email**: [udayige1696@gmail.com] for direct contact
 
 ## 📄 Code of Conduct
 
