@@ -5,12 +5,11 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.50+-red.svg)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.7+-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-Apache-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
 **A comprehensive machine learning project for predicting sales at BigMart outlets**
 
-<!-- [🚀 Live Demo](http://localhost:8501)  -->
 [Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data) • [Documentation](README.md)
 
 </div>
